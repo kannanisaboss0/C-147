@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alabama
+* source:	https://sketchfab.com/3d-models/alabama-690870f54968425083e9c6b816abbc88
+* author:	ThomasBeerens (https://sketchfab.com/ThomasBeerens)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alabama" (https://sketchfab.com/3d-models/alabama-690870f54968425083e9c6b816abbc88) by ThomasBeerens (https://sketchfab.com/ThomasBeerens) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
